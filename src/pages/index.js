@@ -11,7 +11,7 @@ const IndexPage = () => {
   return (
     <HeroUIProvider>
       <main className="h-screen w-full overflow-y-scroll snap-y snap-mandatory" style={pageStyles}>
-        
+
       </main>
     </HeroUIProvider>
   )
